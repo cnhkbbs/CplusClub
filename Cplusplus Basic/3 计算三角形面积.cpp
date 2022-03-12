@@ -14,3 +14,19 @@
 输出样例:
 6
 */
+#include<iostream>
+#include<math.h>
+using namespace std;
+int main(void)
+{
+	float a,b,c,s;
+	cin>>a>>b>>c;
+	if(a+b>c&&a+c>b&&b+c>a){
+		s=sqrt(((a+b+c)/2)*(((a+b+c)/2)-a)*(((a+b+c)/2)-b)*(((a+b+c)/2)-c));
+		cout<<s<<endl;
+	}
+	else
+	{
+		cout<<"No"<<endl;
+	}
+}
