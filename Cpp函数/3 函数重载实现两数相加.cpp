@@ -35,4 +35,15 @@
 // helloworld
 
 
+int add(int a, int b)
+ {
+	return a + b;
+}
 
+double add(double c, double d) {
+	return c + d;
+}
+
+string add(string s1, string s2) {
+	return s1 + s2;
+}
