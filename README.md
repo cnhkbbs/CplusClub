@@ -15,6 +15,6 @@
 
 https://github.com/cnhkbbs/CplusClub
 
-##### 位于coding上的镜像（24小时更新一次）
+##### ~~位于coding上的镜像（24小时更新一次）~~
 
-https://sboxm.coding.net/public/sboxm/CplusClub/git/files
+~~https://sboxm.coding.net/public/sboxm/CplusClub/git/files~~
